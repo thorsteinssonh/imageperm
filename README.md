@@ -1,2 +1,2 @@
 # imageperm
-permutate image pixels based on original input images resulting in simulated multiple raw camera images, usefult generating large image test sets for digitial processing algorithms
+permutate image pixels based on raw input images, resulting in multiple simulated raw images, useful for generating large image test sets, from a smaller set of true original camera images, for digitial processing algorithms
